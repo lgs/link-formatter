@@ -4,7 +4,7 @@ layout: default
 
 # Link Formatter
 
-A browser extension to format and copy links.
+A browser extension to format and copy links. 
 
 Available for:
 
