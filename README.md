@@ -2,11 +2,7 @@
 
 A browser extension to format and copy links. 
 
-Available for:
-
-[Chrome](https://chrome.google.com/webstore/detail/link-formatter/ahppkjpijfgfcdpailnodpieckleplma) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/link-formatter/)|
--|-
-[![ChromeWebStore](images/ChromeWebStore.png)](https://chrome.google.com/webstore/detail/link-formatter/ahppkjpijfgfcdpailnodpieckleplma) | [![FirefoxAddOns](images/FirefoxAddOns.png)](https://addons.mozilla.org/en-US/firefox/addon/link-formatter/)
+Available for [Chrome](https://chrome.google.com/webstore/detail/link-formatter/ahppkjpijfgfcdpailnodpieckleplma) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/link-formatter/).
 
 
 ## Usage
